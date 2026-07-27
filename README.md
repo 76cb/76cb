@@ -29,3 +29,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
 </div>
+
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=76cb)](https://github.com/76cb/github-readme-profile)
